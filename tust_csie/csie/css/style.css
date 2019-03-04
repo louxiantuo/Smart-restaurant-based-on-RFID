@@ -1,0 +1,141 @@
+nav ul li a {
+    color: #000;
+}
+
+nav .nav-wrapper ul {
+    margin-right: 15%;
+}
+
+nav .nav-wrapper .brand-logo {
+    margin-left: 15%;
+    color: #000;
+}
+
+#button {
+    position: absolute;
+    bottom: 100px;
+}
+
+.carousel-slider .carousel-item h2 {
+    margin: 5.78rem 0 1.424rem 0
+}
+
+.search-form {
+    width: 50%;
+    height: 64px;
+    position: absolute;
+    left: 25%;
+}
+
+.search-form #input {
+    width: 50%;
+    height: 50%;
+    padding-left: 5px;
+    position: absolute;
+    left: 10%;
+    top: 25%;
+    border: 2px solid #00acc1;
+    border-radius: 2px;
+    background-color: #fff;
+}
+
+.search-form #a {
+    height: 55%;
+    background-color: #43c6db;
+    position: absolute;
+    top: 25%;
+    left: 70%;
+    line-height: 32px
+}
+
+.center-align h4 {
+    margin: 4.14rem 0 .912rem 0
+}
+
+.page-footer .container .row p {
+    font-size: 0.5rem;
+}
+
+.page-footer .container .row {
+    text-align: center;
+}
+
+@media only screen and (max-width: 992px) {
+    nav .nav-wrapper .brand-logo {
+        left: 10%
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    nav .nav-wrapper .brand-logo {
+        display: none;
+    }
+}
+
+body {
+    font-family: Times, Georgia;
+}
+
+#carousel .carousel-item {
+    width: 280px;
+    height: 400px;
+}
+
+#carousel a {
+    ackground-color: #2c3e50;
+    color: #000;
+}
+
+/*#carousel div{*/
+/*width: 100%;*/
+/*padding: 0px 20px 10px 20px;*/
+/*}*/
+/*#carousel div span{*/
+/*font-size: 1.64rem;*/
+/*line-height: 100%;*/
+/*}*/
+/*#carousel  span{*/
+/*font-size: 1.64rem;*/
+/*line-height: 100%;*/
+/*}*/
+
+#carousel ul {
+    margin: -7px 0 0 0;
+}
+
+#carousel .collapsible-header {
+    padding: 0 1rem 0 1rem;
+    max-height: 90px;
+
+}
+
+#carousel .collapsible-header p {
+    margin: 5px 0;
+    overflow: hidden;
+    height: 80px;
+}
+
+#carousel .collapsible-header .modal-trigger {
+    height: 30px;
+    padding: 0 0.1rem;
+    float: right;
+
+}
+
+#carousel .collapsible-header .modal-trigger i {
+    margin: 0;
+}
+
+#modal1 .card {
+    margin: 0;
+}
+
+#modal1 .card .card-action {
+    border-bottom: 1px solid rgba(160, 160, 160, 0.2);
+    text-align: right;
+}
+
+#modal1 .card .card-content p {
+    padding: 20px;
+}
+

@@ -1,0 +1,35 @@
+nav {
+    background-color: #2c3e50;
+}
+
+.page-footer {
+    background-color: #2c3e50;
+}
+
+header, main, footer {
+    padding-left: 300px;
+}
+
+@media only screen and (max-width: 992px) {
+    header, main, footer {
+        padding-left: 0;
+    }
+}
+
+
+
+#table .check{
+
+}
+#table .add_box{
+
+
+}
+
+#table .close{
+
+}
+
+#table i:hover{
+    cursor: pointer;
+}

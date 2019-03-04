@@ -1,0 +1,7 @@
+composer.lock
+demo.php
+.idea
+vendor
+application_doc/*
+*/test.*
+*/demo.*
